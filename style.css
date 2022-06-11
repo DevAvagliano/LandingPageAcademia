@@ -52,7 +52,7 @@ header {
   text-decoration: none;
   color: rgb(240, 240, 200);
   padding: 1.5rem;
-  transform: 2ms ease-in;
+  transform: 1.8ms ease-in;
   position: relative;
 }
 .menu-content .list-itens a:before {
